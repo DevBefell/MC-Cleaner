@@ -32,5 +32,5 @@ if __name__ == '__main__':
     from subprocess import Popen, PIPE
 
     init()
-    windll.kernel32.SetConsoleTitleW("PyICoder | 1.8")
+    windll.kernel32.SetConsoleTitleW("MC Cleaner")
     Main()
